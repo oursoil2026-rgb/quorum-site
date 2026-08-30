@@ -26,4 +26,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://oursoil2026-rgb.github.io/quorum-site/sitemap.xml
+Sitemap: https://quorumjapan.com/sitemap.xml
